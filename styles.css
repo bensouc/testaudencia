@@ -1,0 +1,40 @@
+
+	h1{
+	color:rgb(250, 54, 3);
+	font-family: 'Roboto', sans-serif;
+	background-color: grey;
+
+}
+
+#title{
+	color: white;
+}
+
+.card{
+	width: 600px;
+	height: 500px;
+	background-color: green;
+	border-radius: 20px;
+	color: white;
+	margin: 10px;
+}
+
+p{
+	font-family: 'Roboto', sans-serif; 
+	text-align: justify;
+	font-size: 25px;
+	 }
+
+
+
+img{
+	width:600px;
+	height: 300 px;
+}
+
+.cards {
+	display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
